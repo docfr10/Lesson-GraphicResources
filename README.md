@@ -4,3 +4,4 @@
 
 Полезные ссылки:
 + https://www.geeksforgeeks.org/android-animations-in-kotlin/
++ https://developer.android.com/develop/ui/views/animations/drawable-animation
