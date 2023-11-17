@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="MyStyle" parent="Theme.Design">
+        <item name="colorAccent">@color/a</item>
+        <item name="colorPrimaryDark">@color/b</item>
+        <item name="colorPrimary">@color/c</item>
+    </style>
+</resources>
